@@ -1,0 +1,5 @@
+No known vulnerabilities found
+Name                             Skip Reason
+-------------------------------- -------------------------------
+devsecops-security-pipeline-demo distribution marked as editable
+pip-audit exit code: 0 
